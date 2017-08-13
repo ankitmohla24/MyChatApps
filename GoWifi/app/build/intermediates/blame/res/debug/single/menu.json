@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/menu/send_image.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/menu/send_image.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/menu/chat.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/menu/chat.xml"
+    }
+]

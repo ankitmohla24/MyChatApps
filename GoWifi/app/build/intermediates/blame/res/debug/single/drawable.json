@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/action_attachment.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/action_attachment.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/medium.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/medium.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/action_picture.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/action_picture.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/folder_empty.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/folder_empty.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/chat_bubble.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/chat_bubble.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/file.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/file.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/edit_text.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/edit_text.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/up.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/wifi_icon.jpg",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/wifi_icon.jpg"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/large.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/large.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/small.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/small.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/file_attached.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/file_attached.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/app_icon.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/app_icon.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/icon_notification.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/icon_notification.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/chat_bubble_mine.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/chat_bubble_mine.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/disconnect.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/disconnect.png"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/button.xml",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/res/merged/debug/drawable/folder_full.png",
+        "source": "/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/src/main/res/drawable/folder_full.png"
+    }
+]

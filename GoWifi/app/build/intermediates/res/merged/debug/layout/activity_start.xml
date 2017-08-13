@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/blue"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select how you want to chat?"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/app_background"
+        />
+
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/imgbluetooth"
+            android:layout_width="120dip"
+            android:layout_height="120dip"
+            android:clickable="true"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/bluetooth"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bluetooth"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dip"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="@color/app_background"
+            />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/imgwifidirect"
+            android:layout_width="120dip"
+            android:layout_height="120dip"
+            android:layout_marginTop="20dp"
+            android:clickable="true"
+            android:src="@drawable/wifidirect"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WiFi Direct"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dip"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="@color/app_background"
+            />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

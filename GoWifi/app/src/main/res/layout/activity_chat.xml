@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<ListView 
+        android:id="@+id/messageList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/writeZone"
+        android:fadeScrollbars="true"
+        android:divider="@null"
+        android:visibility="gone"
+        android:dividerHeight="0dp"
+        android:background="@drawable/backg"
+
+        >
+    </ListView>
+    <ListView
+        android:id="@+id/deviceList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/writeZone"
+        android:fadeScrollbars="true"
+        android:divider="@null"
+        android:visibility="gone"
+        android:dividerHeight="0dp"
+        android:background="@drawable/backg"
+
+        >
+    </ListView>
+    
+    <LinearLayout
+        android:id="@id/writeZone"
+        android:layout_width="match_parent"
+        android:layout_height="48.0dip"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+        android:background="@color/app_background" >
+        
+	    <EditText 
+	        android:id="@+id/editMessage"
+	        android:layout_width="match_parent"
+	        android:layout_weight="9"
+	        android:layout_height="48.0dip"
+	        android:inputType="textMultiLine|textCapSentences"
+	        android:maxLines="4"
+            android:ellipsize="end"
+	        android:hint="@string/enter_text"/>
+	    <Button 
+	        android:id="@+id/sendMessage"
+            android:layout_width="45.0dip"
+            android:layout_height="45.0dip"
+	        android:layout_weight="2"
+            android:padding="10dp"
+	        android:background="@drawable/ic_send_holo_light"
+	        android:textColor="@color/button_text" />
+	
+	</LinearLayout>
+</RelativeLayout>

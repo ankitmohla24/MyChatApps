@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoWifi</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- App and Activities -->
+    <string name="title_activity_view_image">View image</string>
+    <string name="title_activity_file_picker">Choose the file</string>
+    
+    <!-- Color -->
+    <color name="app_background">#FFFFFF</color>
+    <color name="app_text">#535391</color>
+    <color name="actionbar_background">#FFFFFF</color>
+    <color name="actionbar_text">#535391</color>
+    <color name="chat_text_background">#90E5F2</color>
+    <color name="chat_text_background_mine">#7980DB</color>    
+    <color name="chat_text">#535391</color>
+    <color name="button_background">#535391</color>
+    <color name="button_text">#FFFFFF</color>
+    
+    <!-- Generic colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#F22613</color>
+    <color name="purple">#8E44AD</color>
+    <color name="yellow">#F4D03F</color>
+    <color name="green">#26C281</color>
+    <color name="blue">#22A7F0</color>
+    <color name="gray">#DADFE1</color>
+    <color name="black_overlay">#66000000</color>
+    
+    <!-- Buttons -->
+    <string name="go_to_settings_button">Go to Settings</string>
+    <string name="send_button">Send</string>
+    <string name="back_button">Back</string>
+	
+    <!-- EditTexts -->
+    <string name="set_chat_name">Please choose your chat name</string>
+    <string name="enter_text">Enter your message here</string>
+    
+    <!-- TextView -->
+    <string name="go_to_settings_text">Click to Settings
+         and connect your device to the others via Wi-Fi Direct</string>
+    
+    <!-- Menus -->
+    <string name="disconnect">Disconnect</string>
+    <string name="send_image">Send image</string>
+    <string name="download_image">Download image</string>
+    <string name="send_file">Send file</string>
+    <string name="send_drawing">Send drawing</string>
+    
+    <!-- Popup menus -->
+    <string name="pick_image">Pick image</string>
+    <string name="take_photo">Take photo</string>
+    
+    <!-- Descriptions -->
+    <string name="file_icon">File icon</string>
+</resources>

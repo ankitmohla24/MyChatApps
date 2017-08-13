@@ -1,0 +1,7 @@
+#Sun Dec 04 17:54:26 CST 2016
+base.0=/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d53154359aa9f08177d5358015f3b34fb3464805
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4a75af0792a175da425a5a3a7e748642547d2e7/classes.dex
+base.1=/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4a75af0792a175da425a5a3a7e748642547d2e7
+file.0=/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d53154359aa9f08177d5358015f3b34fb3464805/classes.dex

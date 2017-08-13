@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fe09f0ee1901c1e0cf9477821d9c180dd968768">
+        <dex dex="/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d53154359aa9f08177d5358015f3b34fb3464805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/libs/org.apache.commons.io.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b90b6ac57cf27a2858eaa490d02ba7945d18ca7b">
+        <dex dex="/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.commons.io_338dd52f4d43ce32c30de0b63a864e171786d005/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sangrambankar/Downloads/WifiDirectChat-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c99445e5c8415e3bd733d97780a2762f97f2ab29">
+        <dex dex="/Users/sangrambankar/Downloads/WifiDirectChat-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c12c2b657626cbba32ccd90bdd214c4d7fae6fe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01c7aeb863b8c2a721d0b0ca00324c368c558f1d">
+        <dex dex="/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4a75af0792a175da425a5a3a7e748642547d2e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sangrambankar/Downloads/WifiDirectChat-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cac2fa0bacaa4b9a328c9744bb2678ce9764d565">
+        <dex dex="/Users/sangrambankar/Downloads/WifiDirectChat-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b5b8ba18925e9562ff0e0c996b61a4ec7f060625/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sangrambankar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/sangrambankar/Downloads/WifiDirectChatFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_9c1951279bb9afaaa0cf6e08702756b05c4f03f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sangrambankar/Downloads/WifiDirectChat-master1/app/libs/org.apache.commons.io.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b90b6ac57cf27a2858eaa490d02ba7945d18ca7b">
+        <dex dex="/Users/sangrambankar/Downloads/WifiDirectChat-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.commons.io_c3d8fc6e85a1f3f9d4bca59a8166ea5cd05610ff/classes.dex" />
+    </item>
+
+</items>
